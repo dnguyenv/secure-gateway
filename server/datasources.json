@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo_ds": {
+    "host": "cap-sg-prd-2.integration.ibmcloud.com",
+    "port": 15733,
+    "database": "accountdb",
+    "name": "mongo_ds",
+    "connector": "mongodb"
+  }
+}
